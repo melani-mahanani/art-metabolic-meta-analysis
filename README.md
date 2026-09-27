@@ -80,11 +80,6 @@ collected or used. As stated in the article, the extracted dataset is available 
 corresponding author upon reasonable request. The expected input format is documented in
 [`data/codebook.md`](data/codebook.md) and [`data/extraction_template.xlsx`](data/extraction_template.xlsx).
 
-## Contributors
-
-Code: M.R. Mahanani, M. Chit, S. Mohr.
-See the paper for the full author contributions.
-
 ## Citation
 
 If you use this code, please cite the paper above. GitHub's **"Cite this repository"**
@@ -93,8 +88,3 @@ button provides the reference in APA and BibTeX format.
 ## License
 
 Code: MIT.
-
-## Contact
-
-Dr. Melani Ratih Mahanani · Heidelberg Institute of Global Health, Heidelberg University ·
-melani.mahanani@uni-heidelberg.de
