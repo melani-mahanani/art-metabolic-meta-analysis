@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "ART regimens and metabolic outcomes in people living with HIV: analysis code"
+type: software
+version: 1.0.0
+date-released: 2026-09-27
+license: MIT
+repository-code: "https://github.com/YOUR-USERNAME/art-metabolic-meta-analysis"
+authors:
+  - family-names: Mahanani
+    given-names: Melani Ratih
+    affiliation: "Heidelberg Institute of Global Health, Heidelberg University"
+    orcid: "https://orcid.org/0000-0003-3391-934X"
+preferred-citation:
+  type: article
+  title: "Temporal shifts in antiretroviral therapy regimens and metabolic outcomes in people living with HIV: A systematic review and meta-analysis"
+  journal: "HIV Medicine"
+  year: 2026
+  doi: "10.1111/hiv.70260"
+  authors:
+    - family-names: Mahanani
+      given-names: Melani Ratih
+    - family-names: Chit
+      given-names: Myo
+    - family-names: Mohr
+      given-names: Sophie
+    - family-names: Cama i Gibernau
+      given-names: Elisenda
+    - family-names: Hetjens
+      given-names: Svetlana
+    - family-names: Winkler
+      given-names: Volker
+    - family-names: Steffen
+      given-names: Hans-Michael
+    - family-names: Neuhann
+      given-names: Florian
